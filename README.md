@@ -1,4 +1,5 @@
 # CorePython
+--------------------------------------------------------------------------------------------------------------------
 This is a repository for Core Python with Python3.10, Pycharm,VS Code.
 It is created for the purpose of giving KT/Training/Practicing with pyton.
 
