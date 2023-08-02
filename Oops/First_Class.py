@@ -30,5 +30,5 @@ print(obj1,type(obj1),id(obj1),obj1.__class__)
 print(f'My name is {obj2.name} {obj2.surname} and i am {obj2.age} years old')
 print(obj2,type(obj2),id(obj2))
 print(obj3,type(obj3),id(obj3))
-#---------------- Below code will generate Attribute eror -------------
+#---------------- Below code will generate Attribute error -------------
 print(obj3.name, obj3.surname,obj3.age)
